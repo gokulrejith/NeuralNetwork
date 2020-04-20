@@ -1,1 +1,1 @@
-# NeuralNetworkSentdex
+# NeuralNetworkBasics
